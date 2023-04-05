@@ -8,6 +8,7 @@
 	・GitHub
 	・AviUtl
 	・Inkscape
+	・QRのススメ　https://qr.quel.jp/
 	など
 
 データ元：神奈川中央交通HP
