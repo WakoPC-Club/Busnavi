@@ -11,6 +11,7 @@
 	など
 
 データ元：神奈川中央交通HP
+https://www.kanachu.co.jp/index.html
 
 font : SourceHanSansJP-Regular
 
