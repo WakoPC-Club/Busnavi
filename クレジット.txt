@@ -1,0 +1,16 @@
+ 使用ツール：
+	・Json2CSharp
+	https://json2csharp.com/
+	・Unity
+	・Google
+	・Atom
+	・VScode
+	・GitHub
+	・AviUtl
+	・Inkscape
+	など
+
+データ元：神奈川中央交通HP
+
+font : SourceHanSansJP-Regular
+
