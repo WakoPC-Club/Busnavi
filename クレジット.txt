@@ -1,9 +1,0 @@
- 使用ツール：
-	Json2CSharp
-	https://json2csharp.com/
-	
-	Unity
-
-
-font : SourceHanSansJP-Regular
-
