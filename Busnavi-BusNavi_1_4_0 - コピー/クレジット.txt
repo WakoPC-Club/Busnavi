@@ -1,0 +1,20 @@
+ 使用ツール：
+	・Json2CSharp
+	https://json2csharp.com/
+	・Unity
+	・Google
+	・Atom
+	・VScode
+	・GitHub
+	・AviUtl
+	・Inkscape
+	・QRのススメ　https://qr.quel.jp/
+	など
+
+データ元：神奈川中央交通HP
+https://www.kanachu.co.jp/index.html
+
+font : SourceHanSansJP-Regular
+フォントの著作権者：©2014-2019 Adobe (http://www.adobe.com/),with Reserved Font Name'Source'.
+フォントのライセンスに関して：SIL Open Font License,Version 1.1.
+
