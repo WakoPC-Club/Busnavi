@@ -1,0 +1,77 @@
+{
+    "Table":
+    [
+        {
+            "Directory": "Tsurukawa",
+            "Table_Title": "鶴川駅 方面",
+            "Color": [151, 205, 243]
+        },
+
+        {
+            "Directory": "Wakabadai",
+            "Table_Title": "若葉台駅 方面",
+            "Color": [194, 211, 148]
+        }
+    ],
+
+    "Language":
+    [
+        {
+            "LanguageCode": "JP",
+            "Minute": "分"
+        },
+    
+        {
+            "LanguageCode": "EN",
+            "Minute": "min"
+        }
+    ],
+
+
+
+    "ShowScript":
+    [
+        {
+            "Duration" : 6,
+            "UseModule": "BusNavi",
+            "Directory": "Tsurukawa",
+            "Language" : "JP"
+        },
+        
+        {
+            "Duration" : 6,
+            "UseModule": "BusNavi",
+            "Directory": "Tsurukawa",
+            "Language" : "EN"
+        },
+
+        {
+            "Duration" : 6,
+            "UseModule": "BusNavi",
+            "Directory": "Tsurukawa",
+            "Language" : "JP"
+        },
+
+        {
+            "Duration" : 6,
+            "UseModule": "BusNavi",
+            "Directory": "Wakabadai",
+            "Language" : "JP"
+        },
+
+        {
+            "Duration" : 6,
+            "UseModule": "BusNavi",
+            "Directory": "Wakabadai",
+            "Language" : "EN"
+        },
+
+        {
+            "Duration" : 6,
+            "UseModule": "BusNavi",
+            "Directory": "Wakabadai",
+            "Language" : "JP"
+        }
+
+    ]
+}
